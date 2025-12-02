@@ -1,0 +1,6 @@
+Items do Cardápio page
+items_menu1.html - Exemplo de Apresentação do item
+items_menu2.html - Café Espresso
+items_menu3.html - Café Cappuccino
+items_menu4.html - Latte
+items_menu5.html - Café Americano
